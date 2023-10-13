@@ -1,32 +1,16 @@
 <div align="center">
-
-<img src="https://media2.giphy.com/media/hugtXzWs25Mprs2d4F/giphy.gif?cid=ecf05e474iy8a2jz385xvcchtikwdgwo39tgkmkb9v4fj6uj&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="An animated GIF of a spinning dolphin"/>
+  <img src="https://media2.giphy.com/media/hugtXzWs25Mprs2d4F/giphy.gif?cid=ecf05e474iy8a2jz385xvcchtikwdgwo39tgkmkb9v4fj6uj&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="An animated GIF of a spinning dolphin"/>
+    
+  ### 🐬 Your friendly neighborhood dolphin 🐬
   
-### 🐬 Your friendly neighborhood dolphin 🐬
-
-![Static Badge](https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&link=https%3A%2F%2Fwww.youtube.com%2F%40plumpdolphin)
-![Static Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&link=https%3A%2F%2Fdiscord.com%2Fusers%2F535946619149877248)
-<br>
-![Dynamic Badge](https://komarev.com/ghpvc/?username=plumpdolphin&style=flat-square&color=07a1df)
-
+  ![Static Badge](https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&link=https%3A%2F%2Fwww.youtube.com%2F%40plumpdolphin)
+  ![Static Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&link=https%3A%2F%2Fdiscord.com%2Fusers%2F535946619149877248)
+  <br>
+  ![Dynamic Badge](https://komarev.com/ghpvc/?username=plumpdolphin&style=flat-square&color=07a1df)
 </div>
 
 ---
 
-<!--
-**plumpdolphin/plumpdolphin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ### 👨‍💻 About me:
 
 💻 I'm a full-stack software developer based out of Jeonju, South Korea; born and raised in Tulsa, Oklahoma, USA!
@@ -74,6 +58,6 @@ Here are some ideas to get you started:
 Plus several more that I'm not even going to bother finding an icon for, but if you'd like to learn more feel free to reach out!
 
 <div align="center">
-Best of luck to ya!<br>
-☁️ Happy Coding! ☁️
+  Best of luck to ya!<br>
+  ☁️ Happy Coding! ☁️
 </div>
