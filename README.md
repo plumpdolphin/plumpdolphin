@@ -3,8 +3,8 @@
     
   ### 🐬 Your friendly neighborhood dolphin 🐬
   
-  ![Static Badge](https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&link=https%3A%2F%2Fwww.youtube.com%2F%40plumpdolphin)
-  ![Static Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&link=https%3A%2F%2Fdiscord.com%2Fusers%2F535946619149877248)
+  [![Static Badge](https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube)](https://youtube.com/@plumpdolphin)
+  [![Static Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/535946619149877248)
   <br>
   ![Dynamic Badge](https://komarev.com/ghpvc/?username=plumpdolphin&style=flat-square&color=07a1df)
 </div>
@@ -15,7 +15,7 @@
 
 💻 I'm a software engineer and creative idealist based out of Jeonju, South Korea; born and raised in Tulsa, Oklahoma, USA!
 <br><br>
-⚡ I have 5 years of hobby experience and an additional 6 years of professional experience working in a variety of software development roles including, but not limited to, mobile app, backend, internal tools, virtual reality, and Blender plugin development. I love to try out new technologies and expose myself to ideas from a range of different disciplines to incorporate into my work!
+⚡ I have 5 years of hobby experience and an additional 7 years of professional experience working in a variety of software development roles including, but not limited to, mobile app, backend, internal tools, virtual reality, and Blender plugin development. I love to try out new technologies and expose myself to ideas from a range of different disciplines to incorporate into my work!
 <br><br>
 🤔 I believe beyond monetary incentives lies deeper meaning and purpose in the creation process: to reach and help as many people as possible. I ask of you, what good is the wealth of one while the many starve? If my works can help even one person, I have done well to myself and to my people. That what pushes me to, to the best of my abilities, to create and assist in the world's emergence of chaotic chrysalis into an age of peace and abundance.
 
