@@ -5,8 +5,6 @@
   
   [![Static Badge](https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube)](https://youtube.com/@plumpdolphin)
   [![Static Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/535946619149877248)
-  <br>
-  ![Dynamic Badge](https://komarev.com/ghpvc/?username=plumpdolphin&style=flat-square&color=07a1df)
 </div>
 
 ---
